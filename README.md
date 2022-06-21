@@ -14,6 +14,8 @@ Authors
 
 The paper is available at https://eprint.iacr.org/2021/633.pdf
 
+#### See http://ctidh.isogeny.org for further information.
+
 # Overview
 
 This archive contains the following 
@@ -22,3 +24,5 @@ This archive contains the following
 # Licenses
 
 Code in this repository that does not indicate otherwise is placed in the public domain. 
+
+
