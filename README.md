@@ -17,7 +17,7 @@ The paper is available at https://eprint.iacr.org/2021/633.pdf
 # Overview
 
 This archive contains the following 
-- `CTIDH` contains software to CTIDH (see ).
+- `CTIDH` contains software to CTIDH (see https://github.com/sopmacF/CTIDH/blob/main/CTIDH/README.md for details).
 
 # Licenses
 
