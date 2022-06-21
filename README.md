@@ -17,7 +17,7 @@ The paper is available at https://eprint.iacr.org/2021/633.pdf
 # Overview
 
 This archive contains the following 
-- `C` contains a C implementation of CTIDH.
+- `CTIDH` contains software to CTIDH.
 
 # Licenses
 
