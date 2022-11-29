@@ -1,6 +1,6 @@
 # Introduction 
 
-This repository contains auxiliary material for the paper "CTIDH: faster constant-time CSIDH" which was accepted to [CHES 2021](https://ches.iacr.org/2021/).
+This repository contains auxiliary material for the paper ["CTIDH: faster constant-time CSIDH"](https://tches.iacr.org/index.php/TCHES/article/view/9069) which was accepted to [CHES 2021](https://ches.iacr.org/2021/).
 
 Authors
  - Gustavo Banegas
